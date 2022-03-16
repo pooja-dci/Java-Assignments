@@ -9,7 +9,7 @@
 - [ ] follow the same drill : attributes will be `private` with `public` getters setters
 - [ ] toString method to print all attribute values
 
-### Demo.java class : **Outline of Demo.java attached in this respository**
+### Demo.java class : [Outline of Demo.java attached in this respository](https://github.com/pooja-dci/Java-Assignments/blob/master/Demo.java)
 - [ ] This class will have a static attribute which is an ArrayList of Book objects
 - [ ] Inside the main method:
 - [ ] Prompt the user to enter books details. 
