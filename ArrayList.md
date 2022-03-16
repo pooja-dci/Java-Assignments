@@ -63,3 +63,6 @@ Book [title=The Little Prince, author=Antoine de Saint, isbn=11634, price=1.49, 
 Book [title=The Bench, author=Meghan The Duchess of Sussex, isbn=59343, price=4.99, isBorrowed=true]
 
 ```
+### Enhancements:
+- When the user enters an invalid input, for example an int in place of a boolean, a string in place of long etc, Java throws a specific type of RuntimeException. Catch that exception and print the error message that says `"Invalid input. Ending the menu option. Goodbye!"`
+- Regardless of whether an exception occurrs or not, write the ArrayList into an object file, before the program ends
